@@ -1,7 +1,7 @@
 # casper
 
 [Ghost Casper] hexo port, a really minimalist theme.
-Preview: [live demo](qipengliu.com)
+Preview: [live demo](https://www.qipengliu.com)
 
 ## Installation
 
