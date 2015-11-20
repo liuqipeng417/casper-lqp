@@ -1,0 +1,10 @@
+# config
+cover: //blog.ghost.org/content/images/2013/Nov/cover.png
+logo: //blog.ghost.org/content/images/2013/Nov/bloglogo_1-1.png
+bio: '前端方向 华南理工大学 Email:liuqipeng417@outlook.com'
+
+# Content
+excerpt_link: Read More
+
+# Miscellaneous
+rss:
